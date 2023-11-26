@@ -1,0 +1,212 @@
+<httml>
+    <body>
+        <head>
+        <title>terraria wiki</title>
+    <link rel="stylesheet" href="style.css"/></head>
+    <header>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxvPPh5dPB4nBmK_8LvUryPnF5EOK8RPHBwQ&usqp=CAU".>
+    <nav>
+        <a href="">босси</a>
+        <a href="">аксесуари</a>
+        <a href="">спутники</a>
+        <a href="">класси</a>
+        <a class="current" href="">НПС</a>
+    </nav>
+    </header>
+    <main>
+    <h1>Терарія – земля пригод! </h1><p>Земля загадок! <br/> Земля, яку ви можете змінювати, захищати та яку можете насолоджуватися. Ваші можливості у Terraria безмежні. Ви любите постріляти та помахати зброєю? Великий архітектор? Колекціонер? Дослідник? Кожному знайдеться тут своє заняття B<a href="https://terraria.fandom.com/ru/wiki/Terraria_Wiki"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-pqT30E0S7PHvF710Q0CKOQE5fbUO6DJJrHv7pAHVCx5AMh55SF8VwnLkiIPzLoOpOk&usqp=CAU"width="90px" height="30px"/></a></p></main>
+    <h2>НПС
+        <p>всього в грі 29 нпс.<br/>
+            НПС являються не обов'язковими<br/>
+            но супер корисні</p></h2>
+      <h3>до хардмоді НПС</h3>
+      <table>
+        <tr>
+            <td class="master">назва</td>
+            <td class="master">вимога для появлення</td>
+            <td class="master">корость</td>
+            <td class="master">дроп</td>
+        </tr>
+         <tr>
+            <td><img src="https://terraria.wiki.gg/images/7/7f/Guide.png">Гид</td>
+            <td>Завжди з'являється під час створення світу (крім деяких секретних зерен).</td>
+            <td>показує крафти</td>
+            <td>Зелена Кепка 100%</td>
+        </tr>
+         <tr>
+            <td><img src="https://terraria.wiki.gg/images/1/19/Merchant.png">торговець</td>
+            <td>в кармані має бути більше 50 Сірібриних монет</td>
+            <td>Продає основні інструменти та запаси.</td>
+            <td>---</td>
+        </tr>
+         <tr>
+            <td><img src="https://terraria.wiki.gg/images/c/cc/Nurse.png">медсестра</td>
+            <td>торговець й >100 ХП</td>
+            <td>лікує за монети</td>
+            <td>---</td>
+        </tr>
+         <tr>
+            <td><img src="https://terraria.wiki.gg/images/6/6e/Demolitionist.png">підривник</td>
+            <td>торговець й бомба в кармані</td>
+            <td>Продає бомби</td>
+            <td>---</td>
+        </tr>
+         <tr>
+            <td><img src="https://terraria.wiki.gg/images/5/51/Dye_Trader.png">красильщик</td>
+            <td>4 НПС й краситель в кармані</td>
+            <td>особливі красителі</td>
+            <td>Экзотический ятаган 12,5%</td>
+        </tr>
+         <tr>
+            <td><img src="https://terraria.wiki.gg/images/b/bf/Angler.png">рибак</td>
+            <td>Знайти сплячого в океані і поговорити.</td>
+            <td>Дає гравцю рибальські завдання та нагороджує за їх виконання.</td>
+            <td>---</td>
+        </tr>
+         <tr>
+            <td><img src="https://terraria.wiki.gg/images/6/61/Zoologist.png">зоолог</td>
+            <td>Бестіарій заповнений не менше ніж на 10%</td>
+            <td>Продає косметику, засоби пересування та інші предмети, пов'язані з живностями.</td>
+            <td>---</td>
+        </tr>
+         <tr>
+            <td><img src="https://terraria.wiki.gg/images/5/5c/Dryad.png">дриада</td>
+            <td>перемога над любим босом</td>
+            <td>дає змогу получити другого НПС</td>
+            <td>---</td>
+        </tr>
+         <tr>
+            <td><img src="https://terraria.wiki.gg/images/2/24/Painter.png">маляр</td>
+            <td>8 НПС</td>
+            <td>продає краски</td>
+            <td>Пейнтбольна рушниця 10%</td>
+        </tr>
+         <tr>
+            <td><img src="https://terraria.wiki.gg/images/1/1a/Golfer.png">гольфисьт</td>
+            <td>Знайти у підземній пустелі та поговорити</td>
+            <td>продає предмети, пов'язані з гольфом</td>
+            <td></td>
+        </tr>
+         <tr>
+            <td><img src="https://terraria.wiki.gg/images/9/9e/Arms_Dealer.png">Зброяр</td>
+            <td>В інвентарі гравця знаходяться кулі, патрони або зброя, яка їх використовує</td>
+            <td>Продає вогнепальну зброю, кулі та інші боєприпаси.</td>
+            <td>---</td>
+        </tr>
+         <tr>
+            <td><img src="https://terraria.wiki.gg/images/8/81/Tavernkeep.png">трактувач</td>
+            <td>Знайти без створення після перемоги над Пожирачем або Мозком і поговорити</td>
+            <td>Продає предмети для призову та допомоги у битві з армією Стародавніх</td>
+            <td>елементаль12,5%</td>
+        </tr>
+         <tr>
+            <td><img src="https://terraria.wiki.gg/images/1/16/Stylist.png">стилист</td>
+            <td>Знайти пов'язаної в павуковому гнізді та поговорити</td>
+            <td>Може змінювати стиль зачіски гравця та продає фарби для волосся</td>
+            <td>модні ножніци</td>
+        </tr>
+         <tr>
+        <td><img src="https://terraria.wiki.gg/images/8/86/Goblin_Tinkerer.png">Гоблін-винахідник</td>
+            <td>Знайти пов'язаних у печерах після перемоги в навалі гоблінів та поговорити</td>
+            <td>Продає майстерню інженера та інші предмети, а також перековує предмети</td>
+            <td>---</td>
+        </tr>
+         <tr>
+            <td><img src="https://terraria.wiki.gg/images/a/ac/Witch_Doctor.png">шаман</td>
+            <td>Перемога на королеву бджіл</td>
+            <td>Продає духову рушницю, наповнювач, спорядження для закликача, фонтани та крила</td>
+            <td>---</td>
+        </tr>
+         <tr>
+            <td><img src="https://terraria.wiki.gg/images/d/d2/Clothier.png">портний</td>
+            <td>Победа над Скелетроном</td>
+            <td>Продається деякі предмети стилю, у тому числі звичний одяг</td>
+            <td>Червоний капелюх 100%</td>
+        </tr>
+         <tr>
+            <td><img src="https://terraria.wiki.gg/images/5/55/Mechanic.png">механик</td>
+            <td>Знайти пов'язаної у в'язниці та поговорити</td>
+            <td>Продає гайкові ключі, дріт та інші предмети для створення механізмів</td>
+            <td>Бойовий гайковий ключ</td>
+        </tr>
+        <tr>
+            <td><img src="https://terraria.wiki.gg/images/a/a8/Party_Girl.png">тусівниця</td>
+            <td>Появляется с шансом 2,5% якщо в мире є 14 НПС</td>
+            <td>Продає предмети для візуального створення святкової атмосфери</td>
+            <td>Щаслива граната 30-60 25%</td>
+        </tr>
+      </table>
+        <h3>хардмодні НПС</h3>
+        <table>
+        <tr>
+            <td><img src="https://terraria.wiki.gg/images/8/82/Steampunker.png">стим-панкер</td>
+            <td>З'являється після того, як гравець убив будь-якого боса зі Складного режиму</td>
+            <td>Продає очисник, телепорт, джетпак</td>
+            <td>---</td>
+        </tr>
+        <tr>
+            <td><img src="https://terraria.wiki.gg/images/c/c7/Wizard.png">чарівник</td>
+            <td>З'являється під землею після вбивства Стіни плоті</td>
+            <td>Продає різні магічні предмети</td>
+            <td>---</td>
+        </tr>
+        <tr>
+            <td><img src="https://terraria.wiki.gg/images/7/7d/Pirate.png">пірат</td>
+            <td>З'являється під час Нашестя піратів</td>
+            <td>Продає Пушку та інші предмети</td>
+            <td>---</td>
+        </tr>
+        <tr>
+            <td><img src="https://terraria.wiki.gg/images/a/a3/Cyborg.png">киборг</td>
+            <td>З'являється після перемоги над босом Плантера</td>
+            <td>Продає міномет, ракети та наніти</td>
+            <td>---</td>
+        </tr>
+        <tr>
+            <td><img src="https://terraria.wiki.gg/images/f/f2/Truffle.png">трюфель</td>
+            <td>Появляется после постройки дома в Грибном биоме</td>
+            <td>Продає автомолот, аксесуари</td>
+            <td>---</td>
+        </tr>
+        <tr>
+            <td><img src="https://terraria.wiki.gg/images/7/75/Tax_Collector.png">колектор</td>
+            <td>З'являється, якщо кинути порошок, що очищає, на змучену душу в складному режимі</td>
+            <td>Може дати від 1 Copper Coin до 10 Gold Coin</td>
+            <td>---</td>
+        </tr>
+        <tr>
+            <td><img src="https://terraria.wiki.gg/images/f/f2/Princess.png">принцеса</td>
+            <td>З'являється, коли решта НПС (крім Санта-Клауса) заселені</td>
+            <td>Продає королівський одяг та картини</td>
+            <td>---</td>
+        </tr>
+        <tr>
+            <td><img src="https://terraria.wiki.gg/images/5/58/Santa_Claus.png">санта клаус</td>
+            <td>З'являється після Навали сніговиків У період з 15 по 31 грудня</td>
+            <td>Продає Різдвяний костюм, прикраси для дому та ялинки</td>
+            <td>---</td>
+        </tr>
+        </table>
+        <h3>часові НПС</h3>
+        <table>
+        <tr>
+            <td><img src="https://terraria.wiki.gg/images/3/37/Traveling_Merchant.png">Мандрівний торговець</td>
+            <td>відвідує місто гравця у випадкові дні та вночі йде</td>
+            <td>Його інвентар постійно різний і змінюється з кожним новим візитом</td>
+            <td>---</td>
+        </tr>
+        <tr>
+        <td><img src="https://terraria.wiki.gg/images/3/37/Skeleton_Merchant.png">Скелет-торгівець</td>
+            <td>з'являється випадково у підземеллі</td>
+            <td>Він продає противаги та інші аксесуари для йо-йо</td>
+            <td>---</td>
+        </tr>
+        <tr>
+            <td><img src="https://terraria.wiki.gg/images/9/98/Old_Man.png">Старий</td>
+            <td>з'являється в першу ніч після створення світу</td>
+            <td>призив босса скелетрона</td>
+            <td>---</td>
+        </tr>
+      </table>
+    </body>
+</httml>
